@@ -100,4 +100,5 @@ dependencies:
   - zstd=1.5.6=h8880b57_0
   - pip:
       - polars==1.11.0
+      - pre-commit
 prefix: C:\Users\ns751\AppData\Local\miniconda3\envs\gdp
